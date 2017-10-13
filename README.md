@@ -4,10 +4,10 @@
 - Add the agiliteActivityDashboardReports.json application to your Connections organisation
 - Ensure the include-files property pulls the correct path referencing the following files:
 
-- agiliteCore.js
-- chart.js
-- xml2json.js
-- agiliteActivityDashboardReports.js
+* agiliteCore.js
+* chart.js
+* xml2json.js
+* agiliteActivityDashboardReports.js
 
 - In the Community Homepage of the Community you wish to have these reports active for, edit the Rich Content widget, select HTML Source in the WYSIWYG editor, and paste the following HTML into the editor:
 
