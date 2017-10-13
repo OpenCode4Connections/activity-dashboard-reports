@@ -1,0 +1,6 @@
+Agilit-e Activity Dashboard Reports Extension
+Copyright 2017 Agilit-e, IBM
+
+List of third party software used in this project:
+
+	- Chart.js (http://www.chartjs.org/) under MIT (https://opensource.org/licenses/MIT/)
