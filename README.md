@@ -17,9 +17,9 @@
 - Save and close the Rich Content widget
 
 ## Description
-The purpose of this Customizer application is to generate a doughnut chart for Active and Completed To Do items per Activity for a specified Community. This application is self managed and only requires that you provide a small piece of HTML code into the Rich Content widget of the relevant Community (Read the "setup" instructions above)
+The purpose of this Customizer application is to generate a doughnut chart for the logged in user's Active and Completed To Do items per Activity for a specified Community. This application is self managed and only requires that you provide a small piece of HTML code into the Rich Content widget of the relevant Community (Read the "setup" instructions above)
 
-To test this functionality, simply open the Homepage of the Community that has been setup according to the "setup" instructions above. In the Rich Content widget, 2 doughnut charts will be created: 1 for active Activities and 1 for completed Activities.
+To test this functionality, simply open the Homepage of the Community that has been setup according to the "setup" instructions above. In the Rich Content widget, 2 doughnut charts will be created: 1 for your active Activities and 1 for your completed Activities.
 
 ## Screenshots
 
